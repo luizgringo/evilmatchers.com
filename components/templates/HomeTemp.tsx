@@ -11,6 +11,7 @@ export const HomeTemp = (): JSX.Element => {
         <Image
           src="/images/nowhereride.jpeg"
           alt="Nowhere Ride E.P."
+          objectFit="contain"
           width={500}
           height={500}
         />
