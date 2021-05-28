@@ -1,0 +1,36 @@
+.title {
+  font-family: "Washington", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  color: #f6b65d;
+}
+
+.subTitle {
+  font-family: "Washington", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+  color: #cc2e2e;
+}
+
+.downloadButton {
+  margin-top: 3em;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 24px;
+  padding: 20px 19px;
+  border: 2px solid#CC2E2E;
+  text-transform: uppercase;
+  border-radius: 0px;
+  font-weight: 700;
+  background: transparent;
+  color: #cc2e2e;
+  -webkit-transition: all 0.4s ease-in 0s;
+  -o-transition: all 0.4s ease-in 0s;
+  transition: all 0.4s ease-in 0s;
+
+  &:hover {
+    background: #cc2e2e;
+    color: #fff;
+    border-color: #cc2e2e;
+  }
+}

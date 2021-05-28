@@ -1,0 +1,24 @@
+.SectionFooter {
+  background: #191f21;
+  padding: 50px 0px;
+}
+
+.SectionFooter h4 {
+  color: #485153;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.SocialLink a i {
+  background: #4b5456;
+  width: 35px;
+  height: 35px;
+  border-radius: 100%;
+  color: #191f21;
+  font-size: 20px;
+  line-height: 35px;
+}
+
+.SocialLink a:hover i {
+  color: #fff;
+}
