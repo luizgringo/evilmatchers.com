@@ -15,7 +15,7 @@ export const HomeTemp = (): JSX.Element => {
           width={500}
           height={500}
         />
-        <a href="http://bit.ly/nowhereride" target="_blank" className={stylesTemp.downloadButton}>
+        <a href="http://bit.ly/nowhereride" target="_blank" rel="noopener" className={stylesTemp.downloadButton}>
           DOWNLOAD NOW!
         </a>
     </div>
