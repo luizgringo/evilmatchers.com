@@ -1,4 +1,4 @@
 @font-face {
-  font-family: "Washington";
+  font-family: "Washington", Helvetica, sans-serif;
   src: url("Washington-D-Black.woff") format("woff");
 }
